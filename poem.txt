@@ -3,3 +3,5 @@ voilet
 indogo
 blue
 green yellow red
+red golden
+silver
